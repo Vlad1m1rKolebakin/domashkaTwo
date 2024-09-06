@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/domashkaTwo/static/css/main.f855e6bc.css",
+    "main.js": "/domashkaTwo/static/js/main.73eae765.js",
+    "static/js/453.ed3810f9.chunk.js": "/domashkaTwo/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/domashkaTwo/index.html",
+    "main.f855e6bc.css.map": "/domashkaTwo/static/css/main.f855e6bc.css.map",
+    "main.73eae765.js.map": "/domashkaTwo/static/js/main.73eae765.js.map",
+    "453.ed3810f9.chunk.js.map": "/domashkaTwo/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.73eae765.js"
+  ]
+}
